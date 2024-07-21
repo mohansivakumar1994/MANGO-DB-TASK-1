@@ -5,6 +5,8 @@ Get The MongoDB Direct Link For This Task Code MONGO DB TASK 1 DAY 3
 
 MongoDB Direct Link ---->  mongodb://localhost:27017/https://github.com/mohansivakumar1994/MANGO-DB-TASK-1
 
+mongodb+srv://MOHANSIVAKUMAR:<password>@cluster0.quwv7oq.mongodb.net/
+
 
 local
 
